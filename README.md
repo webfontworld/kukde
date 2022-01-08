@@ -1,4 +1,4 @@
-# 국대떡복이체(SDKukDeTopokki)
+# 국대떡볶이체(SDKukDeTopokki)
 
 <a href="https://wess.tistory.com" target="_blank">
     <img src="https://webfontworld.github.io/kukde/SDKukDeTopokki.jpg" alt="SDKukDeTopokki" style="width:300px">
